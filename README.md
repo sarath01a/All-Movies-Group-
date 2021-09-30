@@ -33,7 +33,7 @@
 
 ### Deploy
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/All-Movirs-Group/Pro-Auto-Filter-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://heroku.com/deploy?template=https://github.com/MoTechYT/Pro-Auto-Filter-Bot)
 
 
 ## Configs
