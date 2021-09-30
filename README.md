@@ -20,12 +20,12 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/All-Movies-Groups/Pro-Auto-Filter-Bot/stargazers">
-    <img src="https://img.shields.io/github/stars/All-Movies-Groups /Pro-Auto-Filter-Bot?style=social">
+  <a href="https://github.com/sarath01a/All-Movies-Group-Bot/stargazers">
+    <img src="https://img.shields.io/github/stars/sarath01a/All-Movies-Group-Bot?style=social">
 
   </a>
   
-  <a href="https://github.com/All-Movies-Group/Pro-Auto-Filter-Bot/fork">
+  <a href="https://github.com/sarath01a/All-Movies-Group-Bot/fork">
     <img src="https://img.shields.io/github/forks/MRK-YT/Pro-Auto-Filter-Bot?label=Fork&style=social">
 
   </a>  
