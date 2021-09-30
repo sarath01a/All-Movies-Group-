@@ -3,9 +3,9 @@
 ## Dev Details 👤:
 
 <p align="middle">
-<img src="https://telegra.ph/file/9e831d15da94deb56ef4c.jpg" width="150" height="150"><br>
+<img src="https://telegra.ph/file/ced6c4b88bfb636cce5d9.jpg" width="150" height="150"><br>
 <a href="https://telegram.dog/all_movies_groups"><img src="https://img.shields.io/badge/Tᴇʟᴇɢʀᴀᴍ-Lɪɴᴋ-blue.svg?logo=telegram"></a>
-<a href="https://github.com/All Movies Group"><img src="https://badgen.net/badge/Fᴏʟʟᴏᴡ%20Oɴ%20/Gɪᴛʜᴜʙ/80FF00?icon=github&labelColor=black"></a>
+<a href="https://telegram.dog/All_Movies_Update_amg"><img src="https://badgen.net/badge/Fᴏʟʟᴏᴡ%20Oɴ%20/Gɪᴛʜᴜʙ/80FF00?icon=github&labelColor=black"></a>
 <p align="left">
 </p>                                                           
                                                     
