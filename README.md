@@ -5,14 +5,14 @@
 <p align="middle">
 <img src="https://telegra.ph/file/ced6c4b88bfb636cce5d9.jpg" width="150" height="150"><br>
 <a href="https://telegram.dog/all_movies_groups"><img src="https://img.shields.io/badge/Tᴇʟᴇɢʀᴀᴍ-Lɪɴᴋ-blue.svg?logo=telegram"></a>
-<a href="https://telegram.dog/All_Movies_Update_amg"><img src="https://badgen.net/badge/Fᴏʟʟᴏᴡ%20Oɴ%20/Gɪᴛʜᴜʙ/80FF00?icon=github&labelColor=black"></a>
+<a href="https://telegram.dog/All_Movies_Update_amg"><img src="https://badgen.net/badge/Fᴏʟʟᴏᴡ%20Oɴ%20/Gɪᴛʜᴜʙ/80FF00?icon=AllMoviesUpdates&labelColor=black"></a>
 <p align="left">
 </p>                                                           
                                                     
-[![Open Source? Yes!](https://badgen.net/badge/Oᴘᴇɴ%20Sᴏᴜʀᴄᴇ%20%3F/Yᴇs/yellow?icon=github)](https://github.com/MRK-YT/Pro-Auto-Filter-Bot)
-[![Ask Me Anything !](https://img.shields.io/badge/🤔%20Asᴋ%20Mᴇ-Aɴʏᴛʜɪɴɢ-1abc9c.svg)](https://telegram.dog/Mrk_Yt)
-[![Report Bugs!](https://badgen.net/badge/🐞%20Rᴇᴘᴏʀᴛ%20/Bᴜɢs/red)](https://telegram.dog/mrk_yt)
-[![Join Channel !](https://badgen.net/badge/🔊%20Jᴏɪɴ%20/Cʜᴀɴɴᴇʟ/Black)](https://telegram.dog/mo_Tech_yt)
+[![Actress Updates!](https://badgen.net/badge/Oᴘᴇɴ%20Sᴏᴜʀᴄᴇ%20%3F/Yᴇs/yellow?icon=github)](https://telegram.dog/Asianet_serials_official)
+[![Vijay Devarakonda!](https://img.shields.io/badge/🤔%20Asᴋ%20Mᴇ-Aɴʏᴛʜɪɴɢ-1abc9c.svg)](https://telegram.dog/vijay_devarakonda_Rashmika_HD)
+[![Reshmika Mandans!](https://badgen.net/badge/🐞%20Rᴇᴘᴏʀᴛ%20/Bᴜɢs/red)](https://telegram.dog/vijay_devarakonda_Rashmika_HD)
+[![Tovino Thomas!](https://badgen.net/badge/🔊%20Jᴏɪɴ%20/Cʜᴀɴɴᴇʟ/Black)](https://telegram.dog/Tovino_Thomas_Fans)
 
 <p align="center">
   <a href="https://www.python.org">
